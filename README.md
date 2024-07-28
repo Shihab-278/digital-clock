@@ -1,5 +1,18 @@
-# Welcome to GitHub Desktop!
+# Digital Clock
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A basic digital clock built with JavaScript.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Features
+* Displays current time in HH:MM:SS format.
+* Uses clear and modern styling.
+
+## Prerequisites
+* A web browser.
+
+## Usage
+1. Open the `index.html` file in your web browser.
+
+## Code Structure
+* `index.html`: Contains the HTML structure for the clock.
+* `styles.css`: Styles the clock's appearance.
+* `script.js`: Handles the clock logic and updates the display.
