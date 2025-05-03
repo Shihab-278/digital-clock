@@ -16,3 +16,5 @@ A basic digital clock built with JavaScript.
 * `index.html`: Contains the HTML structure for the clock.
 * `styles.css`: Styles the clock's appearance.
 * `script.js`: Handles the clock logic and updates the display.
+
+Live Link : https://shihab-278.github.io/digital-clock/
